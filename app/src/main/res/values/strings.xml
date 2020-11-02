@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapboxTestApp</string>
+<!--    <string name="mapbox_access_token">pk.eyJ1IjoiaGV0ZmllbGRhbjI0IiwiYSI6IlNqRkNMLWMifQ.sfQQQ7ovs49pDbBOKdypNw</string>-->
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmVsa2FjYXIiLCJhIjoiY2tkajg3anAyMGM3NzJ2bGhkMXJjZ213bCJ9.XIzfKyb_S9Mhu1-nU96fIQ</string>
+    <string name="user_location_permission_explanation">Необходимо в настройках разрешить использование определения местоположения.</string>
+    <string name="settings_intent_label">Перейти в настройки?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="empty" />
+</resources>
